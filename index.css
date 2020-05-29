@@ -1,0 +1,32 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    color: aliceblue;
+    background-color: black;
+}
+
+h1 {
+    color: deepskyblue;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+p,
+li {
+    font-size: 20px;
+}
+
+a {
+    text-decoration-color: none;
+}
+
+.link {
+    color: cornflowerblue;
+}
+
+#postscript {
+    font-size: small;
+}
+
+footer {
+    font-style: italic;
+}
